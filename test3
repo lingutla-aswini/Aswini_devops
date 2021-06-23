@@ -1,0 +1,11 @@
+Programming paradigms refers to the method of classification of programming languages based on their features. There are mainly two types of Programming Paradigms:
+
+Imperative Programming Paradigm
+Declarative Programming Paradigm
+Now, these paradigms can be further classified based:
+
+1. Imperative Programming Paradigm: Imperative programming focuses on HOW to execute program logic and defines control flow as statements that change a program state. This can be further classified as:
+a) Procedural Programming Paradigm: Procedural programming specifies the steps a program must take to reach the desired state, usually read in order from top to bottom.
+b) Object-Oriented Programming or OOP: Object-oriented programming (OOP) organizes programs as objects, that contain some data and have some behavior.
+c) Parallel Programming: Parallel programming paradigm breaks a task into subtasks and focuses on executing them simultaneously at the same time.
+
